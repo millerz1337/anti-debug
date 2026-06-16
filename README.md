@@ -63,7 +63,7 @@ int main() {
 Requires:
 - Windows SDK
 - MSVC or compatible compiler
-- C++11 or later
+- C++17 or later
 
 Link against: `ntdll.lib`, `psapi.lib`
 
